@@ -1,7 +1,7 @@
 # PrivacyPolicy
 
 Privacy Policy for TagZy
-At TagZy, we respect and are committed to protecting your privacy. This privacy policy outlines how we collect, use, and safeguard your personal information when you register for and use the services we provide through our website www.tagzy.in ("Website"), or through other platforms like telephone search, SMS, WAP, or any other medium in which TagZy offers its services (collectively referred to as "Media").
+At TagZy, we respect and are committed to protecting your privacy. This privacy policy outlines how we collect, use, and safeguard your personal information when you register for and use the services we provide through our app TagZy ("App"), or through other platforms like telephone search, SMS, WAP, or any other medium in which TagZy offers its services (collectively referred to as "Media").
 
 When you register for or avail of our services via any of our Media, you may be required to provide personal details such as your name, residential address, workplace address, email address, date of birth, educational qualifications, and similar personal information ("Personal Information"). This information is used for three general purposes:
 
