@@ -34,7 +34,7 @@ Managing Your Account and Preferences
 We give you the option to edit your account information and preferences at any time, including whether you want to receive updates from us regarding new services. To safeguard your privacy and security, we will take reasonable steps to verify your identity before granting access or making changes to your account.
 
 Your Consent and Disclosure
-You acknowledge that you are disclosing Personal Information voluntarily. If you choose not to disclose any Personal Information requested by us during the registration process on our website, or prior to using any of our services, you may do so. However, if you do not provide the requested information, you may be unable to complete the registration process or access our services.
+You acknowledge that you are disclosing Personal Information voluntarily. If you choose not to disclose any Personal Information requested by us during the registration process on our APP, or prior to using any of our services, you may do so. However, if you do not provide the requested information, you may be unable to complete the registration process or access our services.
 
 Corporate Customers
 If you are a corporate customer and we have entered into a non-disclosure agreement with you, this policy does not affect that contract in any way.
